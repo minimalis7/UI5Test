@@ -1,0 +1,18 @@
+{
+	"name": "ui5-test",
+	"description": "SAP UI5 with NodeJS",
+	"version": "0.0.1",
+	"private": true,
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Daniel Grewe",
+	"license": "MIT",
+	"dependencies": {
+		"express": "4.x",
+		"node-inspector": "0.7.x",
+		"body-parser": "^1.18.3",
+		"winston": "^3.1.0"
+	}
+}
